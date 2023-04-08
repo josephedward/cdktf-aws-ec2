@@ -1,7 +1,8 @@
 {
-  "language": "typescript",
-  "app": "npx ts-node main.ts",
-  "projectId": "f6f5c7f7-f3e6-4405-9eb5-f17da1788766",
+  "language": "go",
+  "app": "go run main.go",
+  "codeMakerOutput": "generated",
+  "projectId": "8aa62397-e123-4b1b-91eb-50760cd6a65f",
   "sendCrashReports": "false",
   "terraformProviders": [],
   "terraformModules": [],
